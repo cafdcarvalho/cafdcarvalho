@@ -28,6 +28,6 @@ Sou Técnico em Eletrônica Industrial, tenho desenvolvido apredizado em desenvo
     Curso de programação em PLCs pelo SENAI.
     Curso de NR10 pelo SENAI.
     Cursando Análise de Sistemas de TI pela UVA.
-    Curso Python do zero prla Sigmoidal.
+    Curso Python do zero pela Sigmoidal.
 
 
