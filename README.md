@@ -18,6 +18,8 @@ GitHub é uma excelente ferramenta para o trabalho em equipe. Uma plataforma que
 https://cafdcarvalho.medium.com/como-obter-de-arquivo-csv-no-jupyter-notebook-8b6299f178e3
 
 
+### Mapa utilizando folium pode ajudar na logistica de rotas
+https://cafdcarvalho.medium.com/importancia-na-log%C3%ADstica-ab88bd9264df
 
 
 Sobre mim:
