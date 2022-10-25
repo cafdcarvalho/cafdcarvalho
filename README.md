@@ -1,8 +1,5 @@
 <p align="center">
-    <a href="http://sigmoidal.ai" alt="Contributors">
-        <img src="https://img.shields.io/badge/sigmoidal-ai-yellow" />
-    </a>
-    <a href="https://github.com/carlosfab/sigmoidal_ai/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+
 </p>
 
 
@@ -30,6 +27,6 @@ Sou Técnico em Eletrônica Industrial, tenho desenvolvido apredizado em desenvo
     Curso de programação em PLCs pelo SENAI.
     Curso de NR10 pelo SENAI.
     Cursando Análise de Sistemas de TI pela UVA.
-    Curso Python do zero pela Sigmoidal.
+    
 
 
