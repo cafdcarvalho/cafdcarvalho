@@ -4,8 +4,7 @@
 
 
 
-![banner1](https://user-images.githubusercontent.com/69130895/161449960-8cceacb3-675b-4aa1-abb6-45cb2e50e151.png)
-### Cafdcarvalho
+
 
 
 
