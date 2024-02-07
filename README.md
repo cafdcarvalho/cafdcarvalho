@@ -20,7 +20,7 @@ https://cafdcarvalho.medium.com/importancia-na-log%C3%ADstica-ab88bd9264df
 
 Sobre mim:
 
-Sou Técnico em Eletrônica Industrial, tenho desenvolvido apredizado em desenvolvimento de programação, mais atualmendo trabalho com pesquisa de media.
+Sou Técnico em Eletrônica Industrial, em desenvolvimento na área de Tecnologia da Informação (TI) em busca de novos desafios e oportunidades. Sendo constantemente desafiado a se adaptar e aprimorar as habilidades para acompanhar o ritmo acelerado das mudanças, mais atualmendo trabalho com pesquisa de media.
 
     Curso técnico em Eletrônica pela ETRR.
     Curso de programação em PLCs pelo SENAI.
