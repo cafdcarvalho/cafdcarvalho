@@ -14,7 +14,7 @@
 
 Links:
 
-LinkedIn
-Medium
-Projetos:
+-LinkedIn
+-Medium
+-Projetos:
 
