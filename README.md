@@ -15,6 +15,7 @@
 Links:
 
 -LinkedIn
+
 -Medium
 
 Projetos:
