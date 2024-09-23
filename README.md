@@ -15,7 +15,8 @@
 Links:
 
 -LinkedIn
-https://www.linkedin.com/in/carlos-felipe-de-carvalho-819215197/
+https://www.linkedin.com/in/carlos-felipe-de-carvalho
+
 -Medium
 
 Projetos:
