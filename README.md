@@ -7,7 +7,7 @@
 
 :sparkles: Pensar
 
-> Transformar o mundo ao meu redor a transformação da pessoa começa em mim.
+> Para transformar o mundo ao meu redor, a transformação da pessoa começa em mim.
 > - Efésios 3:16; Romanos 12:1-2
 
 
