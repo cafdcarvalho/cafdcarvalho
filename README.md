@@ -18,5 +18,7 @@ Links:
 
 [Medium](https://medium.com/@cafdcarvalho/list/reading-list)
 
+[Instagram](https://www.instagram.com/p/C6RTGUVslEs/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
 Projetos:
 
