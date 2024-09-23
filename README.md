@@ -16,7 +16,7 @@ Links:
 
 -[LinkedIn](https://www.linkedin.com/in/carlos-felipe-de-carvalho-819215197)
 
--Medium
+-[Medium](https://medium.com/@cafdcarvalho/list/reading-list)
 
 Projetos:
 
